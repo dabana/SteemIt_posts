@@ -1,10 +1,19 @@
 # What a Crap-A-thon!
-## Fail Hack-a-thons: how to avoid them and how to organize good ones
+## Failed Hack-a-thons: how to avoid them and how to organize good ones
 
-This week-end I was suppose to attend an IoT Hack-a-thon. In fact, my whole week-end was going to be a Hackathon. On the one hand I was thinking: "Cool! I am going to learn new stuff, meet cool people and drink lots of coffee". But on the other hand I was thinking: "Damn, I have to spend a whole week-end inside a building with a bunch of dudes while it's full bright summer shine out hear in Montreal." And for anyone who lived both winter and summer in Montreal, these prescious summer days are  
+This week-end I was suppose to attend an IoT Hack-a-thon. On the one hand I was thinking: "Cool! I am going to learn new stuff and meet awesome people in my field". But on the other hand I was thinking: "Damn, I have to spend a whole week-end inside a building with a bunch of dudes while it's full bright summer outside." And for anyone who has experienced both winter and summer in Montreal, these summer days are precious.
 
-It is me or Hack-a-thons are getting more and more popular. Still, I never to one that was a true success.
+So I woke up at 7h00 AM on a Saturday morning to be on-time for my Hackathon. Needless to say I had a double shot of that expresso. Deep inside me I was hoping the event to be so crapy I would have to leave early and enjoy the rest of my week-end. But my rational mind was thinking I had to give the organizers a chance. After all, a hack-a-thon is a great networking opportunity! So I showed up anyway.
 
-1. Locking up inside for days with a bunch of dudes.
-2. Why do organizers assume people going to hackathons are no lifes that are willing to give up their whole week-end to the cause of code
+But my guts were right from the start and indeed, crapy it was. What a Crap-a-thon! We were only 2 participants on time for the event and the coffee was not event arrived! After 2 hours, a grand total of 5 participants had shown-up. Since there were so few participants, I was alone in my team. So long for the networking opportunity... We were given a Raspebrry Pi, a SD card and a proximity sensor and we were told: "make-up an IoT device to read sensors, post stuff automaticaly on social media and, while you are at it, why don't you incorporate some AI!?" Without any further details and with half the audience not knowing what SSH is. Then the coffee arrived... from Tim Hortons -_- (At least there were some Tim Bits). The organizers were very kind and helpful and they seamed to know there stuff and all but seriously, it was impossible for me to stay. 
+
+So I packed my things silently and I stealthily made my way toward the door. But then, I heard one of the organizer say: "David? You are leaving?", with a shy and trembling voice. D'oh! I said: "Yes! I have to go, sorry. Bye!" and I almost ran out of the building, ashamed but releaved. So I came back home to my girl friend who was just waking up and I had one of the greatest week-end in a long time. The sun was shinning. The birds were singing. And the beer was chill and tasty. It was a great summer week-end in Montreal.
+
+
+
+
+At least I learned how to totally fail to organize a Hack-a-thon:
+
+1. Assume your participants to be total no-lives and schedule the event on a week-end. Both days? Of course!
+2. Give vague instructions
 3. 
