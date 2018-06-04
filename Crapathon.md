@@ -9,11 +9,14 @@ But my guts were right from the start and indeed, crapy it was. What a Crap-a-th
 
 So I packed my things silently and I stealthily made my way toward the door. But then, I heard one of the organizer say: "David? You are leaving?", with a shy and trembling voice. D'oh! I said: "Yes! I have to go, sorry. Bye!" and I almost ran out of the building, ashamed but releaved. So I came back home to my girl friend who was just waking up and I had one of the greatest week-end in a long time. The sun was shinning. The birds were singing. And the beer was chill and tasty. It was a great summer week-end in Montreal.
 
-
-
-
 At least I learned how to totally fail to organize a Hack-a-thon:
 
-1. Assume your participants to be total no-lives and schedule the event on a week-end. Both days? Of course!
-2. Give vague instructions
-3. 
+1. Assume your participants to be total no-lives. For exemple, schedule the event on a week-end. Both days? Of course!
+2. Send a single email reminder 3 days in advance without any details about the challenge.
+3. Give a challenge with vague instructions and no information about the evaluation process.
+
+It seams that Hack-a-thons are getting more and more popular. I don't understand why. I also wonder what proportion of them are truly successful. Did you ever have a good Hack-a-thon experience? If so, how do you detect a Hack-a-thon that promises to be a success? Or a total fail?
+
+Please share in the comment section below!
+
+
